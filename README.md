@@ -1,2 +1,11 @@
-# 2bcb08ec0e9d5ca49e79ba9b4497bafc15862cc988944645f7d50075cd584a6d0fbbef81bc9c6cc
-R&amp;M
+# zeet-flask
+Simple Flask application that can be deployed to Zeet.
+
+# Walkthrough
+https://www.youtube.com/watch?v=p8IY8bSIg7U
+
+# Sign up to Zeet
+https://go.zeet.co/devopsjourney
+
+# Other Types of projects? Django, Golang, Node.js etc.
+Zeet supports more then just AWS/Flask.  You can follow the tutorial and deploy to any Cloud Provider using a Framework of your choosing such as Django, Node.js, Golang etc.  more project examples located in the Zeet documentation https://docs.zeet.co/reference/introduction
